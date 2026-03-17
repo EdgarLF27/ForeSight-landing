@@ -12,7 +12,6 @@ import {
   Minus,
   Star,
   Globe,
-  Lock,
   MessageSquare,
   Quote,
 } from "lucide-react";
